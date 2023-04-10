@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(27, 28, 26);
+    color: #d3a046;
+    
+  }
+
+body, html {
+    height: 90%;
+    margin-top:1%;
+    margin-left:10%;
+    margin-right:10%;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url(images/gardenglitch.jpg);
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  
+
+  
+
